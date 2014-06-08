@@ -1,0 +1,4 @@
+affiliate
+=========
+
+nogifeed affiliate blog
