@@ -1,4 +1,9 @@
-affiliate
+#nogifeed promotion site
 =========
 
-nogifeed affiliate blog
+## what is nogifeed ?
+nogifeed is mobile application for android.
+
+
+
+
